@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
-public class Prueba01 implements CommandLineRunner {
+//@Component
+public class Prueba001 implements CommandLineRunner {
 
     @Autowired
     private EstudianteRepository estudianteRepository;
