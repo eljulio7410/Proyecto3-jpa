@@ -9,7 +9,7 @@ public class ManejoSpringDataJpaApplication {
 
 
 
-	
+
 	public static void main(String[] args) {
 		SpringApplication.run(ManejoSpringDataJpaApplication.class, args);
 	}
